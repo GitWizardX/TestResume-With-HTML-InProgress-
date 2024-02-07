@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+</head>
+<body>
+
+    <header>
+        <h1>Shikhar Sharma</h1>
+        <p>Jaipur,Rajasthan,India</p>
+        <p>+91-8209281552</p>
+        <p><a href="mailto:shikharsharma504@gmail.com">shikharsharma504@gmail.com</a></p>
+
+    </header>
+
+    <section>
+        <h2>Summary</h2>
+        <p>Recent Electrical Engineering graduate with a strong foundation in technical knowledge and problem solving skills. Eager to apply expertise in roles requiring attention to detail and analytical thinking</p>
+    </section>
+
+    <section>
+        <h2>Experience</h2>
+        <h3>GENUS POWER INFRASTRUCTURE LTD - JAIPUR, IN- Intern</h3>
+        <p><strong> Aug 21 - Sept 2021</strong></p>
+        <p><ul> <div> <span> Role Played : </span><hr> </div> 
+             <li> Performed research into topics such as the Design and testing of different types of meters in support of 
+            senior engineering staff needs. </li>
+            <li> Completed functional analysis and root cause tests</li>
+             <li>Calculated project costs and delivery timelines. </li>
+            <li> Monitored construction, manufacturing and installation requirements</li> 
+            <li>Collected, organized and modeld data to coordinate reports.</li>
+             <li>Prepared detailed reports outlining Meter Errors and their sensitive information that led to the production 
+            of 95% proper functional meters.</li> </ul>
+            </p>
+
+
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <h3>Bharati Vidyapeeth Deemed Univsersity- Btech Electrical</h3>
+        <p><strong>July 18-July 22</strong></p>
+    </section>
+
+    <section>
+        <h2>Skills <hr></h2>
+        <ul>
+            <li> Htmll  </li>
+            <li>CSS</li>
+            <li>Javascript</li>
+            <!-- Add more skills as needed -->
+        </ul>
+    </section>
+
+</body>
+</html>
